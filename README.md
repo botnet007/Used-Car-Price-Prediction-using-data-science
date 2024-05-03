@@ -23,7 +23,7 @@
 
 <h2>Usage</h2>
 
-<code>git clone https://github.com/yourusername/used-car-price-prediction.git</code>
+<code>git https://github.com/botnet007/Used-Car-Price-Prediction-using-data-science.git
 
 <h2>Project Structure</h2>
 <ul>
